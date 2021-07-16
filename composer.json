@@ -1,0 +1,19 @@
+{
+    "name": "hb/basic-pokeapi",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hb\\BasicPokeapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jimmy aubert",
+            "email": "jimmy.c.aubert@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-client": "^5.3"
+    }
+}
